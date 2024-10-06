@@ -83,7 +83,7 @@ h1, #description-text {
     text-align: center;
 }
 
-.tow-parts {
+.two-parts {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -126,7 +126,7 @@ h1, #description-text {
 
 }
 #thor-text{
-    font: 16px "Roboto";
+    font: 16px "Roboto", sans-serif;
     font-style: italic;
     text-shadow: #847e7e 5px 5px 8px;
     max-width: 500px;
@@ -154,7 +154,7 @@ h1, #description-text {
 
 .it-is-time{
     display: flex;
-    font: 16px "Roboto";
+    font: 16px "Roboto", sans-serif;
     color: white;
     flex-direction: column;
 }
@@ -174,7 +174,7 @@ h1, #description-text {
     justify-content: center;
     align-items: center;
     color: white;
-    font: 16px "Roboto";
+    font: 16px "Roboto", sans-serif;
     margin-bottom: 10px;
 
 }
